@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source MERN Stack Projects**
 
-- 💬 Ask me about **React.js, Node.js,Next.js, TypeScript Go and AWS **
+- 💬 Ask me about **Javascript, React.js, Node.js,Next.js, TypeScript Go and AWS **
 
 - 📫 How to reach me **razzaqali778@gmail.com**
-
-- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/your-resume-link)
 
 - ⚡ Fun fact **I love traveling and exploring new technologies**
 
@@ -114,8 +112,6 @@
 </a> 
 
 </p>
-
-
 
 ---
 <div style="display: flex; width: 100%;">
