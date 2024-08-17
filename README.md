@@ -120,10 +120,10 @@
 ---
 <div style="display: flex; width: 100%;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razzaqali778&show_icons=true&locale=en&layout=compact" alt="razzaqali778" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razzaqali778&show_icons=true&locale=en&layout=compact" alt="razzaqali778" style="width: 50%; height: auto;" />
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzaqali778&" alt="razzaqali778" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzaqali778&" alt="razzaqali778" style="width: 50%; height: auto;" />
   </div>
 </div>
 
